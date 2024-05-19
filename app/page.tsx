@@ -52,17 +52,6 @@ export default function Page() {
         
       </div>
 
-      <ul>
-        <li>a
-          <ul>
-            <li>gg</li>
-            <li>gg</li>
-            <li>gg</li>
-          </ul>
-
-        </li>
-        <li>b</li>
-      </ul>
 
     </main>
   );
